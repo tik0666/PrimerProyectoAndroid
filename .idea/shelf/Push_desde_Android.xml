@@ -1,0 +1,44 @@
+<changelist name="Push_desde_Android" date="1558754483243" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/shelved.patch" />
+  <option name="DESCRIPTION" value="Push desde Android" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/proyecto.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-hdpi/proyecto.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.9.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-ldpi/proyecto.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.91.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-mdpi/proyecto.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.92.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-tvdpi/proyecto.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.93.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-xhdpi/proyecto.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.94.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-xxhdpi/proyecto.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.95.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable-xxxhdpi/proyecto.9.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Push_desde_Android/proyecto.96.png" />
+  </binary>
+</changelist>
